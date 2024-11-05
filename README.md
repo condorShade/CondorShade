@@ -20,10 +20,12 @@ Computer Systems Engineering Student | Passionate about Cybersecurity and iOS De
 - 🌐 Spanish and English
 - 🕹 Enjoy learning ethical hacking
 - 🐱💻 Love cats and coding
+- 🚀 Passionate about learning new things
 
 ---
 
 ### Currently working on:
+- 📂 Creating more repositories for cybersecurity resources
 - 📘 Learning more on TryHackMe
 - 📱 Advancing in iOS development
 - 🐍 Diving deep into **Python** for cybersecurity
